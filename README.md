@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anna-dieu
-- 👀 I’m interested in Data Analytics and Cybersecurity.
+- 👀 I’m interested in Data Analytics, Cloud and Cybersecurity.
 - ✨ My favourite programming language is Python!
 - 😄 Currently learning C++ and Kotlin
 - ⚡ Fun fact: My hobby is learning languages(学中文).
